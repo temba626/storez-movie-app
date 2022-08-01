@@ -46,7 +46,7 @@ body {
 
 .btn {
   padding: 10px 15px;
-  background-color: green;
+  background-color: pink;
   color: var(--primary);
   border-radius: 5px;
   text-transform: uppercase;
@@ -59,7 +59,7 @@ body {
 }
 
 .btn:hover {
-  background-color: #1aa762;
+  background-color: red;
   opacity: 1;
   cursor: pointer;
 }
@@ -127,11 +127,11 @@ header .nav-links li:last-child {
 
 .add-content .input-wrapper input {
   width: 100%;
-  background-color: blue;
+  background-color: #5bccf6;
   padding: 10px;
   border-radius: 5px;
   border: none;
-  color: var(--white);
+  color: black;
   font-size: 1.25rem;
 }
 
@@ -199,16 +199,16 @@ header .nav-links li:last-child {
 
 .count-pill {
   display: block;
-  background-color: green;
+  background-color: white;
   padding: 5px 15px;
   font-size: 1.125rem;
   font-weight: 600;
   border-radius: 999px;
-  color: blue;
+  color: black;
 }
 
 .movie-page .heading {
-  color: blue;
+  color: white;
   margin: 0;
 }
 
