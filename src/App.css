@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700;900&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap');
 
 :root {
   --primary: #032541;
@@ -7,7 +7,8 @@
 }
 
 body {
-  font-family: "Source Sans Pro", sans-serif;
+  background-color: #fcde67;
+  font-family: "Mochiy Pop P One", sans-serif;
   padding: 0;
   margin: 0;
 }
@@ -45,7 +46,7 @@ body {
 
 .btn {
   padding: 10px 15px;
-  background-color: var(--secondary);
+  background-color: green;
   color: var(--primary);
   border-radius: 5px;
   text-transform: uppercase;
@@ -74,7 +75,7 @@ input:focus {
 
 /* Header Styles */
 header {
-  background-color: var(--primary);
+  background-color: #5bccf6;
 }
 
 header .inner-content {
@@ -85,7 +86,7 @@ header .inner-content {
 }
 
 header a {
-  color: var(--white);
+  color: black;
   font-size: 1.25rem;
   text-decoration: none;
   transition: all 0.3s ease;
@@ -126,7 +127,7 @@ header .nav-links li:last-child {
 
 .add-content .input-wrapper input {
   width: 100%;
-  background-color: var(--primary);
+  background-color: blue;
   padding: 10px;
   border-radius: 5px;
   border: none;
@@ -168,7 +169,7 @@ header .nav-links li:last-child {
 
 .result-card .info .title {
   font-size: 1.25rem;
-  color: var(--primary);
+  color: blue;
   font-weight: 600;
   margin: 0;
 }
@@ -176,7 +177,7 @@ header .nav-links li:last-child {
 .result-card .info .release-date {
   font-size: 1.25rem;
   font-weight: 300;
-  color: var(--primary);
+  color: blue;
   margin: 0;
 }
 
@@ -198,16 +199,16 @@ header .nav-links li:last-child {
 
 .count-pill {
   display: block;
-  background-color: var(--secondary);
+  background-color: green;
   padding: 5px 15px;
   font-size: 1.125rem;
   font-weight: 600;
   border-radius: 999px;
-  color: var(--primary);
+  color: blue;
 }
 
 .movie-page .heading {
-  color: var(--primary);
+  color: blue;
   margin: 0;
 }
 
@@ -285,7 +286,7 @@ header .nav-links li:last-child {
 }
 
 .movie-page .no-movies {
-  color: #c4c4c4;
+  color: black;
   font-size: 3rem;
   text-align: center;
 }
