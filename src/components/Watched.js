@@ -27,5 +27,6 @@ export const Watched = () => {
         )}
       </div>
     </div>
+    
   );
 };
