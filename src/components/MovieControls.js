@@ -40,6 +40,8 @@ export const MovieControls = ({ type, movie }) => {
           </button>
         </>
       )}
+
     </div>
+    
   );
 };
