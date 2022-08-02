@@ -69,3 +69,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # storez-movie-app
+
+
+### TO VIEW DEPLOYED SITE ON NETLIFY
+
+This site was deployed on netlify. You can vieww it here: [https://snazzy-clafoutis-b7f494.netlify.app] (Netflify deployment)
