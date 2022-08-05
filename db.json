@@ -1,0 +1,67 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Beetlejuice",
+      "year": "1988",
+      "runtime": "92",
+      "director": "Tim Burton",
+      "actors": "Alec Baldwin, Geena Davis, Annie McEnroe, Maurice Page",
+      "plot": "A couple of recently deceased ghosts contract the services of a \"bio-exorcist\" in order to remove the obnoxious new owners of their house."
+    },
+    {
+      "id": 2,
+      "title": "The Cotton Club",
+      "year": "1984",
+      "runtime": "127",
+      "director": "Francis Ford Coppola",
+      "actors": "Richard Gere, Gregory Hines, Diane Lane, Lonette McKee",
+      "plot": "The Cotton Club was a famous night club in Harlem. The story follows the people that visited the club, those that ran it, and is peppered with the Jazz music that made it so famous."
+    },
+    {
+      "id": 3,
+      "title": "The Shawshank Redemption",
+      "year": "1994",
+      "runtime": "142",
+      "director": "Frank Darabont",
+      "actors": "Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler",
+      "plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+    },
+    {
+      "id": 4,
+      "title": "Avengers",
+      "year": "2020",
+      "runtime": "122",
+      "director": "Stan Lee",
+      "actors": "Captain America, Thor, Peter Parker, Maurice Page",
+      "plot": "A couple of recently deceased ghosts contract the services of a \"bio-exorcist\" in order to remove the obnoxious new owners of their house."
+    },
+    {
+      "id": 5,
+      "title": "Thor Love n Thunder",
+      "year": "2022",
+      "runtime": "122",
+      "director": "Stan Lee",
+      "actors": "Captain America, Thor, Peter Parker, Maurice Page",
+      "plot": "A couple of recently deceased ghosts contract the services of a \"bio-exorcist\" in order to remove the obnoxious new owners of their house."
+    },
+    {
+      "id": 6,
+      "title": "Superman & Lois",
+      "year": "2021",
+      "runtime": "40",
+      "director": "Mark Gregor",
+      "actors": "Captain America, Thor, Peter Parker, Maurice Page",
+      "plot": "A couple of recently deceased ghosts contract the services of a \"bio-exorcist\" in order to remove the obnoxious new owners of their house."
+    },
+    {
+      "id": 7,
+      "title": "Batman",
+      "year": "2022",
+      "runtime": "182",
+      "director": "Sylvester",
+      "actors": "Batsy, Thor, Peter Parker, Maurice Page",
+      "plot": "A couple of recently deceased ghosts contract the services of a \"bio-exorcist\" in order to remove the obnoxious new owners of their house."
+    }
+  ]
+}
