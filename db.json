@@ -62,6 +62,24 @@
       "director": "Sylvester",
       "actors": "Batsy, Thor, Peter Parker, Maurice Page",
       "plot": "A couple of recently deceased ghosts contract the services of a \"bio-exorcist\" in order to remove the obnoxious new owners of their house."
+    },
+    {
+      "id": 8,
+      "title": "Batman",
+      "year": "2022",
+      "runtime": "182",
+      "director": "Sylvester",
+      "actors": "Batsy, Thor, Peter Parker, Maurice Page",
+      "plot": "A couple of recently deceased ghosts contract the services of a \"bio-exorcist\" in order to remove the obnoxious new owners of their house."
+    },
+    {
+      "id": 9,
+      "title": "Batman",
+      "year": "2022",
+      "runtime": "182",
+      "director": "Sylvester",
+      "actors": "Batsy, Thor, Peter Parker, Maurice Page",
+      "plot": "A couple of recently deceased ghosts contract the services of a \"bio-exorcist\" in order to remove the obnoxious new owners of their house."
     }
   ]
 }
